@@ -2,3 +2,4 @@ git is a cat
 git is free
 git is a pig
 git is a egg
+Git has a mutable index called stage.
